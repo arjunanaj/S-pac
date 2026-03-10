@@ -1,0 +1,32 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241 126" width="57" height="30">
+	<title>im rebranding_asset-06(1)-ai</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-125.646,0,0,-125.646,240.11,125.646)">
+			<stop offset="0" stop-color="#2aa900"/>
+			<stop offset="1" stop-color="#38cd00"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(125.646,0,0,125.646,54.66,0)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".8"/>
+			<stop offset="1" stop-color="#f1f1f1" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(125.646,0,0,125.646,0,0)">
+			<stop offset="0" stop-color="#f65f0b"/>
+			<stop offset="1" stop-color="#ff4c06"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.s1 { opacity: .8;fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s0" d="m177.3 125.6c-34.8 0-62.8-28-62.8-62.8 0-34.7 28-62.8 62.8-62.8 34.7 0 62.8 28.1 62.8 62.8 0 34.8-28.1 62.8-62.8 62.8z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m117.5 125.6c-34.8 0-62.8-28-62.8-62.8 0-34.7 28-62.8 62.8-62.8 34.7 0 62.8 28.1 62.8 62.8 0 34.8-28.1 62.8-62.8 62.8z"/>
+				<path id="&lt;Path&gt;" class="s2" d="m62.8 125.6c-34.7 0-62.8-28-62.8-62.8 0-34.7 28.1-62.8 62.8-62.8 34.8 0 62.8 28.1 62.8 62.8 0 34.8-28 62.8-62.8 62.8z"/>
+			</g>
+		</g>
+	</g>
+</svg>
